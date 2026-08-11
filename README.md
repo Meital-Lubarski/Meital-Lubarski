@@ -1,13 +1,10 @@
 # Hi, I'm Meital 👋
 
-### B.Sc. Computer Science Student | Software & Game Development
+### B.Sc. Computer Science Student | Software Engineering & Game Development
 
-I'm a Computer Science student at the Hebrew University of Jerusalem,
-with a strong interest in software development, game development,
-and building interactive systems.
+I'm a **3rd-year Computer Science B.Sc. student** at the Hebrew University of Jerusalem, with a minor in **Game Design and Development** at Bezalel Academy of Arts and Design. I have hands-on experience building software and interactive systems through academic projects, team-based development, and game jams.
 
-I enjoy turning ideas into working projects, learning new technologies,
-and solving challenging programming problems.
+I'm passionate about **software engineering, problem-solving, and designing well-structured systems**, and I enjoy turning complex ideas into practical, working solutions..
 
 ---
 
