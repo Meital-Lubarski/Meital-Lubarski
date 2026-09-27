@@ -55,4 +55,4 @@ A game developed as part of the 2026 Brackeys Game Jam.
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/meital-lubarski/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meital-lubarski/)
